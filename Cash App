@@ -1,0 +1,14 @@
+How to use Integrate Cash App
+1. Client must provide $Cashtag, else mag note ka nga mangayo ka.
+2. If provided, kay add this code kung asa siya gusto ipabutang ang Cash App.
+<div class="form-group">
+	<h5>Other Payment Option</h5>
+	<br>
+	<button class="cashapp btn btn-success btn-lg" onclick="window.open('https://cash.app/$Cashtag')">
+	<i class="fas fa-dollar-sign"> </i>
+	Cash App
+	</button>
+</div>
+3. To test, install VPN extension.
+4. Mo redirect na siya sa Cash App na site then check if Account name is visible > Take a Screenshot.
+5. Done.
